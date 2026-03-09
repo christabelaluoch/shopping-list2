@@ -4,3 +4,10 @@ crisps
 wow
 popcorns
 biscuits
+sugar
+salt
+cooking oil
+flour
+rice
+vegetables
+beans
